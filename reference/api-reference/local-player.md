@@ -40,3 +40,13 @@ Returns `true` if the player is in combat
 
 </details>
 
+<details>
+
+<summary>isLoggedIn()</summary>
+
+Returns `true` if the player is logged in
+
+</details>
+
+
+
