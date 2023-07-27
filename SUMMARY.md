@@ -6,8 +6,9 @@
 ## Reference
 
 * [API Reference](reference/api-reference/README.md)
+  * [Inventory](reference/api-reference/inventory.md)
+  * [LocalPlayer](reference/api-reference/localplayer.md)
   * [NPC](reference/api-reference/npc.md)
   * [Objects](reference/api-reference/objects.md)
-  * [Local Player](reference/api-reference/local-player.md)
   * [Pets](reference/api-reference/pets.md)
   * [Users](reference/api-reference/users.md)
