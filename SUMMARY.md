@@ -12,3 +12,4 @@
   * [Objects](reference/api-reference/objects.md)
   * [Pets](reference/api-reference/pets.md)
   * [Users](reference/api-reference/users.md)
+  * [Bank](reference/api-reference/bank.md)
